@@ -16,9 +16,13 @@ No issues.
 
 ## Release Notes
 
+### 0.0.3
+
+VS Code dependency fix.
+
 ### 0.0.1
 
-Initial release of pascal-snake-casify
+Initial release of pascal-snake-casify.
 
 -----------------------------------------------------------------------------------------------------------
 
