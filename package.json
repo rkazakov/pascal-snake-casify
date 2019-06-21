@@ -4,6 +4,10 @@
 	"description": "Convert PascalCase to Pascal_Snake_Case",
 	"version": "0.0.1",
 	"publisher": "rkazakov",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/rkazakov/pascal-snake-casify.git"
+	},
 	"engines": {
 		"vscode": "*"
 	},
