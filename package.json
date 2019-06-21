@@ -2,14 +2,14 @@
 	"name": "pascal-snake-casify",
 	"displayName": "pascal-snake-casify",
 	"description": "Convert PascalCase to Pascal_Snake_Case",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "rkazakov",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/rkazakov/pascal-snake-casify.git"
 	},
 	"engines": {
-		"vscode": "*"
+		"vscode": "1.0.0"
 	},
 	"categories": [
 		"Other"
