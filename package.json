@@ -3,8 +3,9 @@
 	"displayName": "pascal-snake-casify",
 	"description": "Convert PascalCase to Pascal_Snake_Case",
 	"version": "0.0.1",
+	"publisher": "rkazakov",
 	"engines": {
-		"vscode": "^1.35.0"
+		"vscode": "*"
 	},
 	"categories": [
 		"Other"
