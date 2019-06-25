@@ -16,6 +16,10 @@ No issues.
 
 ## Release Notes
 
+### 0.0.4
+
+Add extension icon.
+
 ### 0.0.3
 
 VS Code dependency fix.
